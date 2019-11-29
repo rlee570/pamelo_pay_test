@@ -1,2 +1,2 @@
-# pamelo_pay_test
+# Pamelo pay test
 Test for pamelo pay
