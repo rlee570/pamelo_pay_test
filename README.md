@@ -1,4 +1,4 @@
-# Pamelo pay test
+# Pomelo pay test
 
 Test for pamelo pay involving creating a small api. You will need node.js install
 to install and run the project or alternatively use the dockerfiles which require
