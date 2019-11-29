@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "currency": "SGD",
+    "amount": 10000,
+    "user": "Robert",
+    "date": "29/11/2019",
+    "toAccount": "32112389"
+  },
+  {
+    "id": 3,
+    "currency": "GBP",
+    "amount": 7500,
+    "user": "Jeff",
+    "date": "03/09/2019",
+    "toAccount": "21431229"
+  },
+  {
+    "id": 8,
+    "currency": "EUR",
+    "amount": 8000,
+    "user": "Siobhan",
+    "date": "22/06/2019",
+    "toAccount": "61312389"
+  },
+  {
+    "id": 2,
+    "currency": "INR",
+    "amount": 1000000,
+    "user": "Aisling",
+    "date": "17/04/2019",
+    "toAccount": "21376219"
+  },
+  {
+    "id": 7,
+    "currency": "VND",
+    "amount": 1000000000,
+    "user": "Lian",
+    "date": "11/11/2019",
+    "toAccount": "45682239"
+  },
+  {
+    "id": 6,
+    "currency": "PHP",
+    "amount": 230000,
+    "user": "Jed",
+    "date": "07/11/2019",
+    "toAccount": "33422119"
+  }
+]

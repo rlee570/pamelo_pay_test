@@ -1,0 +1,37 @@
+{
+  "name": "pamelo_pay_test",
+  "version": "1.0.0",
+  "description": "Test for pamelo pay",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlee570/pamelo_pay_test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlee570/pamelo_pay_test/issues"
+  },
+  "homepage": "https://github.com/rlee570/pamelo_pay_test#readme",
+  "dependencies": {
+    "@types/morgan": "^1.7.37",
+    "@types/supertest": "^2.0.8",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "ts-node": "^8.5.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.2",
+    "@types/jest": "^24.0.23",
+    "@types/node": "^12.12.14",
+    "jest": "^24.9.0",
+    "supertest": "^4.0.2",
+    "ts-jest": "^24.2.0",
+    "typescript": "^3.7.2"
+  }
+}
