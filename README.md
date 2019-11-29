@@ -28,13 +28,13 @@ In the main directory of the project type. This will build the docker
 image.
 `docker build -t pamelo-app .`
 Then to run the server simply type
-`docker run -it -p 3000:3000 pamelo-app`
+`docker run -it -p 3000:3000 pomelo-app`
 To run as a background service
-`docker run -d -it -p 3000:3000 pamelo-app`
+`docker run -d -it -p 3000:3000 pomelo-app`
 
 To run the tests in docker:
 Change directory to the tests folder. Then build the docker image with
 the following command.
-`docker build -t pamelo-app .`
+`docker build -t pomelo-app .`
 Then to run the tests
-`sudo docker run -it -p 3000:3000 pamelo-app`
+`sudo docker run -it -p 3000:3000 pomelo-app`
